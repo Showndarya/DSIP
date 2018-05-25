@@ -13,3 +13,4 @@ This repository contains some of the programs written for the course **Digital S
 * [Contrast Stretching and Histogram Equalization](./Contrast_Stretching_and_Histogram_Equalization)
 * [Filters](./Filters)
 * [Edge Detection Filters](./Edge_Detection_Filters)
+* [Steganography Using LSB Algorithm](./Steganography_Using_LSB)
