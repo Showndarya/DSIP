@@ -12,4 +12,4 @@ This repository contains some of the programs written for the course **Digital S
 * [Point Processing techniques in Spatial domain](./Point_Processing_Techniques)
 * [Contrast Stretching and Histogram Equalization](./Contrast_Stretching_and_Histogram_Equalization)
 * [Filters](./Filters)
-
+* [Edge Detection Filters](./Edge_Detection_Filters)
