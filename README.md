@@ -10,4 +10,5 @@ This repository contains some of the programs written for the course **Digital S
 * [Convolution and Correlation](./Convolution_and_Correlation)
 * [Discrete Fourier Transforms and Inverse Discrete Fourier Transforms](./Discrete_Fourier_Transforms_and_Inverse_Discrete_Fourier_Transforms)
 * [Point Processing techniques in Spatial domain](./Point_Processing_Techniques)
+* [Contrast Stretching and Histogram Equalization](./Contrast_Stretching_and_Histogram_Equalization)
 
